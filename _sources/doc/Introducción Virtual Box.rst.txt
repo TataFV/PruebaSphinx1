@@ -1,0 +1,20 @@
+Introducción VirtualBox
+=======================
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+.. image:: ../images/VirtualBox_logo.jpg
+   :height: 200 px
+   :width: 200 px
+   :scale: 100 %
+   :alt: Logo VirtualBox
+
+*VirtualBox* es un software para virtualización, tambien conocido como hipervisor de tipo 2, que se utiliza 
+para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como `máquina virtual`.
+
+`Documentación Oficial Virtual Box`_ 
+
+.. _Documentación Oficial Virtual Box: https://www.virtualbox.org/manual/
+
+Si estas interesado/a en instalar VirtualBox mira la sección: :ref:`Instalación-Virtual-Box`. 

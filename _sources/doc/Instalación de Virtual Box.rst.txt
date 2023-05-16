@@ -1,0 +1,65 @@
+.. _Instalación-Virtual-Box:
+
+Instalación de VirtualBox
+=========================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+1º Paso
+-------
+
+Ir a la páginas web oficial de `VirtualBox`_. 
+
+.. _VirtualBox: https://www.virtualbox.org/ 
+
+.. image:: ../images/VirtualBox_Dowload.jpg
+   :height: 300 px
+   :width: 700 px
+   :scale: 100
+   :alt: página principal de Oracle VirtualBox
+
+En la página de descargas `Dowload`_ elegiremos que versión descargar en función del Sistema Operativo (Linux, Windows, IOS,Solaris).
+En mi caso estoy usando un sistema operativo *Windows 7*.
+
+.. _Dowload: https://www.virtualbox.org/  
+
+.. image:: ../images/VirtualBox_Elegir_sistema_operativo.png
+   :height: 900 px
+   :width: 400 px
+   :scale: 100 %
+   :alt: página de descargas de VirtualBox
+
+
+
+
+2º Paso
+-------
+
+Una vez descargado, procedemos a su instalación por defecto (cambiando la ruta de instalación si fuera necesario). 
+
+.. image:: ../images/VirtualBox_Ventana_Instalacion.jpg
+   :height: 400 px
+   :width: 600 px
+   :scale: 75 %
+   :alt: asistente de instalación de VirtualBox
+
+La última ventana nos invitará a instalar controladores de bus.
+
+.. image:: ../images/VirtualBox_Controladora_de_bus.jpg
+   :height: 400 px
+   :width: 600 px
+   :scale: 75 %
+   :alt: ventana instalador de controladores 
+
+
+Una vez finalizado el proceso de instalación deberemos reiniciar el ordenador y ya podemos iniciar VirtualBox.
+
+.. image:: ../images/VirtualBox_Administrador.jpg
+   :height: 400 px
+   :width: 600 px
+   :scale: 75 %
+   :alt: interface gráfica de VirtualBox
+

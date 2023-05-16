@@ -1,0 +1,23 @@
+.. WebSphinx documentation master file, created by
+   sphinx-quickstart on Mon May 15 12:42:26 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Bienvenido a WebSphinx!
+=======================
+
+Esta es una web creada para el 5º examen de `Diseño de Interfaces Web` (DIW). 
+
+El contenido usado procede de una práctica de la asignatura de `Sistemas Informáticos` de 1º de *DAW*.
+
+El tema de la práctica es *Máquinas Virtuales*. Investigación de **VirtualBox**. 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   doc/Introducción Virtual Box
+   doc/Instalación de Virtual Box
+   doc/Características de Virtual Box
+   doc/Comparación de máquinas virtuales
+

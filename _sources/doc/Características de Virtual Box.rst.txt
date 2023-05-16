@@ -1,0 +1,12 @@
+Características de VirtualBox
+=============================
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+1. Opción de crear instantáneas y puntos de control
+2. Sistemas Operativos compatibles: Windows, Linux, IOS, Solaris and OpenSolaris, OS/2, and OpenBSD.
+3. Integración del entorno de la máquina virtual en el sistema operativo host.
+4. Clonación
+5. Gratuito
+
